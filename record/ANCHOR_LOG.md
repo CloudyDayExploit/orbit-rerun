@@ -32,11 +32,13 @@ entry seq 0 and the genesis manifest (seq 776) are in `proofs.txt`.
 
 ### Anchor status
 
-1. **Public git** — PREPARED. This repository's history carries the
-   genesis batch and this log; the git anchor takes effect when the
-   repository is pushed public (gate 3). Repo URL:
+1. **Public git** — **LIVE.** This repository's history carries the
+   genesis batch and this log. Repo URL:
    https://github.com/CloudyDayExploit/orbit-rerun (created
-   2026-11-24; anchor live on first push).
+   2026-11-24). The history was mirrored to GitHub on 2026-11-24 via
+   the Git Data API; every commit SHA on the remote matches the
+   locally sealed history byte for byte. Mirrored head at push time:
+   `eab1184e516a1633d315001518b12a9315b40718`.
 2. **Blockchain timestamp (OpenTimestamps)** — **STAMPED
    2026-11-24** (proof: `anchors/2026-11-24/daily_root.txt.ots`,
    committed with this log). Two earlier attempts the same day
