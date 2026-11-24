@@ -44,12 +44,16 @@ entry seq 0 and the genesis manifest (seq 776) are in `proofs.txt`.
    committed with this log). Two earlier attempts the same day
    returned 0 attestations inside the client's 5-second default
    timeout; the successful stamp used a 60-second calendar timeout.
-   The proof currently carries calendar attestations; the Bitcoin
-   confirmation aggregates over the following hours, after which
-   `ots upgrade` will be run and committed. When upgraded, the proof
-   will show the genesis root existed no later than the stamped
-   Bitcoin block — a timestamp nobody, including the operator, can
-   backdate.
+   The proof carried calendar attestations while the Bitcoin
+   confirmation aggregated; **`ots upgrade` completed 2026-11-24**
+   ("Timestamp complete") and the proof now embeds two independent
+   **Bitcoin block header attestations — blocks 977388 and 977390** —
+   proving the genesis root existed no later than those blocks: a
+   timestamp nobody, including the operator, can backdate. (One
+   calendar's attestation was still pending at upgrade time; the two
+   completed Bitcoin attestations are independent of it. Full header
+   verification is offline-checkable by anyone running a Bitcoin
+   node.)
 3. **Cross-posts** — dated slots, filled with real URLs when posted
    (never backfilled):
    - Cross-post 1 (repo release/announcement): **LIVE 2026-11-24** —
