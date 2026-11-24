@@ -34,18 +34,20 @@ entry seq 0 and the genesis manifest (seq 776) are in `proofs.txt`.
 
 1. **Public git** — PREPARED. This repository's history carries the
    genesis batch and this log; the git anchor takes effect when the
-   repository is pushed public (gate 3). Repo URL: **PENDING-GATE-3**.
-2. **Blockchain timestamp (OpenTimestamps)** — **PENDING.** On
-   2026-11-24 the stamp of `anchors/2026-11-24/daily_root.txt` was
-   attempted: the calendar servers were contacted but returned 0
-   attestations within the client timeout, so no `.ots` proof exists
-   yet and none is claimed. Exact pending step: re-run
-   `ots stamp record/anchors/2026-11-24/daily_root.txt`, commit the
-   resulting `daily_root.txt.ots`, then after Bitcoin confirmation
-   (aggregation takes hours) run `ots upgrade` and commit again. When
-   completed, the proof will show the genesis root existed no later
-   than the stamped Bitcoin block — a timestamp nobody, including the
-   operator, can backdate.
+   repository is pushed public (gate 3). Repo URL:
+   https://github.com/CloudyDayExploit/orbit-rerun (created
+   2026-11-24; anchor live on first push).
+2. **Blockchain timestamp (OpenTimestamps)** — **STAMPED
+   2026-11-24** (proof: `anchors/2026-11-24/daily_root.txt.ots`,
+   committed with this log). Two earlier attempts the same day
+   returned 0 attestations inside the client's 5-second default
+   timeout; the successful stamp used a 60-second calendar timeout.
+   The proof currently carries calendar attestations; the Bitcoin
+   confirmation aggregates over the following hours, after which
+   `ots upgrade` will be run and committed. When upgraded, the proof
+   will show the genesis root existed no later than the stamped
+   Bitcoin block — a timestamp nobody, including the operator, can
+   backdate.
 3. **Cross-posts** — **PENDING-GATE-3.** Dated slots, to be filled with
    real URLs when posted (never backfilled):
    - Cross-post 1 (repo release/announcement): PENDING-GATE-3
