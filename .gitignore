@@ -1,0 +1,10 @@
+# Never commit credentials, keys, or local environment artefacts.
+*.key
+*.pem
+*credential*
+*secret*
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
