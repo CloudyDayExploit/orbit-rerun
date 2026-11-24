@@ -50,10 +50,12 @@ entry seq 0 and the genesis manifest (seq 776) are in `proofs.txt`.
    will show the genesis root existed no later than the stamped
    Bitcoin block — a timestamp nobody, including the operator, can
    backdate.
-3. **Cross-posts** — **PENDING-GATE-3.** Dated slots, to be filled with
-   real URLs when posted (never backfilled):
-   - Cross-post 1 (repo release/announcement): PENDING-GATE-3
-   - Cross-post 2 (independent public location): PENDING-GATE-3
+3. **Cross-posts** — dated slots, filled with real URLs when posted
+   (never backfilled):
+   - Cross-post 1 (repo release/announcement): **LIVE 2026-11-24** —
+     GitHub Release "State of the Record — Edition 1 · Genesis Seal":
+     https://github.com/CloudyDayExploit/orbit-rerun/releases/tag/edition-1
+   - Cross-post 2 (independent public location): PENDING
 
 ## Daily anchors
 
