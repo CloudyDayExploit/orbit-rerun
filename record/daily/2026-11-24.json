@@ -1,0 +1,74 @@
+{
+  "batch_roots": [
+    "efa801097847d015667a6c5458e8266a5e1983a394dfd10d3738efa809242b82",
+    "1ec5181a086a08adb2136885a81eaa93b0725c4e0110dcd0ed0a61027372f7f4",
+    "7b4edb2019911b25ed42e11ef6dbef01ee31e84431b09aa666a2fcb245d28139",
+    "fbbab149ea4f856db98bbfe281356ce5f8e3bc618594a244b5efcb40765f7ae0",
+    "ea4f427bb844ae97945857ab922ca2472e49a62754cff43a00f14544ba215971",
+    "4ab04d951f553b57a64195749a81383584a8b50d0ac6ea2e76f615e651876e86",
+    "6460b5c75264ec5b8a4b333548a8b14d06d97d3dfc80e0cb82323db31463e863",
+    "9da7ecbb585f93baecad6585437e97c5b7aec563fa2e8d884a746adc19cd6ca8",
+    "2010e45b3b970762fcc8496556bff70a4681700bb797c8f66299598a3c89d387"
+  ],
+  "batches": [
+    {
+      "count": 5,
+      "hour": "2026-11-24T00",
+      "root": "efa801097847d015667a6c5458e8266a5e1983a394dfd10d3738efa809242b82",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-24T01",
+      "root": "1ec5181a086a08adb2136885a81eaa93b0725c4e0110dcd0ed0a61027372f7f4",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 8,
+      "hour": "2026-11-24T02",
+      "root": "7b4edb2019911b25ed42e11ef6dbef01ee31e84431b09aa666a2fcb245d28139",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-24T03",
+      "root": "fbbab149ea4f856db98bbfe281356ce5f8e3bc618594a244b5efcb40765f7ae0",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-24T04",
+      "root": "ea4f427bb844ae97945857ab922ca2472e49a62754cff43a00f14544ba215971",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-24T05",
+      "root": "4ab04d951f553b57a64195749a81383584a8b50d0ac6ea2e76f615e651876e86",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 6,
+      "hour": "2026-11-24T06",
+      "root": "6460b5c75264ec5b8a4b333548a8b14d06d97d3dfc80e0cb82323db31463e863",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 10,
+      "hour": "2026-11-24T07",
+      "root": "9da7ecbb585f93baecad6585437e97c5b7aec563fa2e8d884a746adc19cd6ca8",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 338,
+      "hour": "2026-11-24T08",
+      "root": "2010e45b3b970762fcc8496556bff70a4681700bb797c8f66299598a3c89d387",
+      "stream": "orbit-rerun-genesis"
+    }
+  ],
+  "daily_root": "5f30399dfa09c2f4300a66bee50200661b47b57951c3e644834a26e6be5227d8",
+  "day": "2026-11-24",
+  "merkle_root": "db8ee7d5e7c13abeca176317d317110c0864a006c1621efdfb4328acc9681151",
+  "prev_daily_root": "690bd0ef3133ccb74fa6cf2cc266a3b71e48b5f8431ae05fc1e120458adbf2ec",
+  "v": 1
+}

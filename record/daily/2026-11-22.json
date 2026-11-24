@@ -1,0 +1,158 @@
+{
+  "batch_roots": [
+    "bb67e8f5d64ce0cac59ed5cc8aeee9cb49a1b0f52f5f8581f48872a88c4a321f",
+    "82c66faccab8d5332f2fd7c0172b1c87eb4c2dd027043b15e8782aa855d6d88e",
+    "5e206ef5d3fac0073d12c6774b2ba1741c47d8e73ccc4f4118c07fd4d7cbe60d",
+    "c54815191e9328405477ec135078140fe259100eeedbea7c52d06f078cc81d0a",
+    "dff1314d44597d8292f1bea248beefed41fac838fe7c68b13e321ee04ce1366d",
+    "773bfdfab06f413314b745e60f1ec2ebe03001e6d4ed06978e0e30535d9af37d",
+    "6e9b8d124b84ce1c62ce03549945756ced8b4187d8c3e8facf32618c0d99b94b",
+    "87bb1c54f22f9745fd8fb480915aa81fd08ba7015c8144fadc7bfa5c3ce0d971",
+    "a80928d4b5445231e43ab3c565398e78a995a6c439f80412ad32234f2eefd44c",
+    "1a70a865e006b7de307d0273fdd91ad429fb30f375fe8763b03f09d7c0f0f774",
+    "bdb10712eb3c7452dc47ad119f7c040c91b19f51eb7f0b842027cb7d801c998b",
+    "ebe04e28c767bc9120a9225a0312b0ed8ff784f9b620811c1c9093becf47b620",
+    "a6c2d2a5b28ffd149b6ed2b5a26e170a8077c2a8123d08b9a558cf63c571e750",
+    "6cc7b3d23feae35566610e94dbe9a0314903936de77435413986c38d42c5dc51",
+    "9760271818c8bbc3a857634a4e2c392081bda4f8a8ab27f6106443206eb4ac99",
+    "d8ef7c53858f0c555e525db45cb61218af1eaedb128c0e62bd647860de1de00b",
+    "2d78f1d9d3b5aa938749bb0365ad22c06cf57779ff963db25356d64f9de3800d",
+    "428f29cd826a73cd63748db3d7045b7f654fa8b5e4d7a722ec3ad777c7dccddd",
+    "ca0b25912cb6d9bfd34b38627d858cb05d83c070afc0bf5a239338edc6cd3588",
+    "5fecfcb276f23fe9e17a9ec8d92e6a26f43a50eca7c29628f22a3b5e88517e14",
+    "efe6519fbcb785bdd56989f27b9cb8a2a63048d4b5605999c150b2292b516f09"
+  ],
+  "batches": [
+    {
+      "count": 1,
+      "hour": "2026-11-22T01",
+      "root": "bb67e8f5d64ce0cac59ed5cc8aeee9cb49a1b0f52f5f8581f48872a88c4a321f",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-22T02",
+      "root": "82c66faccab8d5332f2fd7c0172b1c87eb4c2dd027043b15e8782aa855d6d88e",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 6,
+      "hour": "2026-11-22T03",
+      "root": "5e206ef5d3fac0073d12c6774b2ba1741c47d8e73ccc4f4118c07fd4d7cbe60d",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-22T04",
+      "root": "c54815191e9328405477ec135078140fe259100eeedbea7c52d06f078cc81d0a",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-22T05",
+      "root": "dff1314d44597d8292f1bea248beefed41fac838fe7c68b13e321ee04ce1366d",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-22T07",
+      "root": "773bfdfab06f413314b745e60f1ec2ebe03001e6d4ed06978e0e30535d9af37d",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 4,
+      "hour": "2026-11-22T08",
+      "root": "6e9b8d124b84ce1c62ce03549945756ced8b4187d8c3e8facf32618c0d99b94b",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-22T09",
+      "root": "87bb1c54f22f9745fd8fb480915aa81fd08ba7015c8144fadc7bfa5c3ce0d971",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 1,
+      "hour": "2026-11-22T10",
+      "root": "a80928d4b5445231e43ab3c565398e78a995a6c439f80412ad32234f2eefd44c",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 1,
+      "hour": "2026-11-22T11",
+      "root": "1a70a865e006b7de307d0273fdd91ad429fb30f375fe8763b03f09d7c0f0f774",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 1,
+      "hour": "2026-11-22T12",
+      "root": "bdb10712eb3c7452dc47ad119f7c040c91b19f51eb7f0b842027cb7d801c998b",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-22T14",
+      "root": "ebe04e28c767bc9120a9225a0312b0ed8ff784f9b620811c1c9093becf47b620",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-22T15",
+      "root": "a6c2d2a5b28ffd149b6ed2b5a26e170a8077c2a8123d08b9a558cf63c571e750",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-22T16",
+      "root": "6cc7b3d23feae35566610e94dbe9a0314903936de77435413986c38d42c5dc51",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-22T17",
+      "root": "9760271818c8bbc3a857634a4e2c392081bda4f8a8ab27f6106443206eb4ac99",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 10,
+      "hour": "2026-11-22T18",
+      "root": "d8ef7c53858f0c555e525db45cb61218af1eaedb128c0e62bd647860de1de00b",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-22T19",
+      "root": "2d78f1d9d3b5aa938749bb0365ad22c06cf57779ff963db25356d64f9de3800d",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-22T20",
+      "root": "428f29cd826a73cd63748db3d7045b7f654fa8b5e4d7a722ec3ad777c7dccddd",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 10,
+      "hour": "2026-11-22T21",
+      "root": "ca0b25912cb6d9bfd34b38627d858cb05d83c070afc0bf5a239338edc6cd3588",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 8,
+      "hour": "2026-11-22T22",
+      "root": "5fecfcb276f23fe9e17a9ec8d92e6a26f43a50eca7c29628f22a3b5e88517e14",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 6,
+      "hour": "2026-11-22T23",
+      "root": "efe6519fbcb785bdd56989f27b9cb8a2a63048d4b5605999c150b2292b516f09",
+      "stream": "orbit-rerun-genesis"
+    }
+  ],
+  "daily_root": "142f37394b97e4c887faaaab13e61bcd6f394f34dc2568fa738780b8bb00a0d5",
+  "day": "2026-11-22",
+  "merkle_root": "7aabea59d573a70fd57a547d0c748a95bcb22e5d31a50fa1e437435993bb7bf2",
+  "prev_daily_root": "cf0a98620fc167830fab3722507814a2e993fe04276cc5d51c3c8dba6b18392b",
+  "v": 1
+}

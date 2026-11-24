@@ -1,0 +1,160 @@
+{
+  "anchors": {
+    "blockchain": "OP_RETURN payload in blockchain_payload.txt",
+    "crossposts": [
+      "crosspost_1.txt",
+      "crosspost_2.txt"
+    ],
+    "git": "commit anchors/<day>/ contents to the public anchor repository (see ANCHOR_RUNBOOK.md)"
+  },
+  "batches": [
+    {
+      "count": 3,
+      "hour": "2026-11-23T00",
+      "root": "7ce0e069837c7fad16838e7aad3099cdc8c044c4ebcfdd93232d8de27c562b04",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-23T01",
+      "root": "95d44a92e9eba3a087e9f40752ff6bcc1219ef5146c142868464f58f0f3b6b03",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 8,
+      "hour": "2026-11-23T02",
+      "root": "965d64b9028ac633bfbf4b56b3eaeaacba6b8b1f2f1d8a715bf58f82fa8fa386",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 9,
+      "hour": "2026-11-23T03",
+      "root": "2480809e96a5c698924521490861cc4bec81a4555ca6674bae8ae0d61b7b0219",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 6,
+      "hour": "2026-11-23T04",
+      "root": "4f939d11e719590033b837ec6741e360b7397ab1515eccf4b463d04dd1219942",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-23T05",
+      "root": "d4348b683056326502cc815f331867ff93843d2f00403d32df03854e27212552",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-23T06",
+      "root": "63c03447b33c3e303b798439b848484e525b3d2f5d0917a02850600ca147b78e",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-23T07",
+      "root": "22d076f33483a0a92d1ad49e0de22da9d20c587412301a218a3ca5c6d31e5e98",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-23T08",
+      "root": "8fab9e0fb604c45b1ba9646a49a8ca491b74da0e92088e4ed91ba4805a051a3b",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-23T09",
+      "root": "d653680f113ccca88ad8e39722455715bca20fa153f4a17878932070929d81bc",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 6,
+      "hour": "2026-11-23T10",
+      "root": "060af31d5ee19201ac51ad3aa57e55fde6e160588c252988db921c67aa929c10",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 6,
+      "hour": "2026-11-23T11",
+      "root": "e71c73552b1928ad3e55b9091dfe58818e5ce6acbd5741d51f8d11dec0d1c274",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 10,
+      "hour": "2026-11-23T12",
+      "root": "600df0dfa62d97a925cac19e00036f71504ae92bc25496339f02c5c8ecf22969",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 8,
+      "hour": "2026-11-23T13",
+      "root": "c72b40335bd5c886de547e9cc6e71e8ca01fe7f36dd6aa3706e80152b2bd15eb",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 10,
+      "hour": "2026-11-23T14",
+      "root": "864f3fe1c4d409345a6556370205dc9e8d19074062f92c717674b84bfc15eb0d",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 11,
+      "hour": "2026-11-23T15",
+      "root": "0ac31ceacf90e072eefd2142928483d339dea592600c424182182b37bf53a424",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 10,
+      "hour": "2026-11-23T16",
+      "root": "088c5d056fcc4e717156dc40bd029f3dd6885641cc3cfa30622706f6e1bb9b91",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 13,
+      "hour": "2026-11-23T17",
+      "root": "3baa14c791a0dac2f7205fa7e76364f7be4ee596f88fe5c4b558d369a3928a07",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 13,
+      "hour": "2026-11-23T18",
+      "root": "8bd8520265b56a5f2ef127af7a96866a138443592001897f19332b82276ccb3e",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-23T19",
+      "root": "05e7cddca111deb0164191dbea75205620f1b4622620e64c5da6b241910ae9d8",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 19,
+      "hour": "2026-11-23T20",
+      "root": "ca5c80b16ee730dcb2172d56d3d96e3deff787ef1bd55e1be44b8e2851257b8e",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 10,
+      "hour": "2026-11-23T21",
+      "root": "62659a27d579ffb053027fd57f9a5ef51b03cd206f18485a94aebed1141e83ca",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 8,
+      "hour": "2026-11-23T22",
+      "root": "81b7ae12765ac61fd771034b610fcaf4cb80a3aa1306151438d87a85977a1337",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 6,
+      "hour": "2026-11-23T23",
+      "root": "ac6f093ef13923a82638ed04285ed82360ae433eec354d5a0f9de90106c59333",
+      "stream": "orbit-rerun-genesis"
+    }
+  ],
+  "daily_root": "690bd0ef3133ccb74fa6cf2cc266a3b71e48b5f8431ae05fc1e120458adbf2ec",
+  "day": "2026-11-23",
+  "prev_daily_root": "142f37394b97e4c887faaaab13e61bcd6f394f34dc2568fa738780b8bb00a0d5",
+  "project": "Orbit Rerun"
+}

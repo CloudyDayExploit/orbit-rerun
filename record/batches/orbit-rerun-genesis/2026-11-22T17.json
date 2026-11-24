@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "first_seq": 170,
+  "hour": "2026-11-22T17",
+  "last_seq": 171,
+  "leaves": [
+    "adb7692d8ea2c9b9c9c53d31840ed77dff640fe4ab1a3d23dfc4cdf9e6649cb2",
+    "a1fbf6a704f94bc85db2df93f1940123b8dd4c4b239ebf7622b40a6bb58c921b"
+  ],
+  "root": "9760271818c8bbc3a857634a4e2c392081bda4f8a8ab27f6106443206eb4ac99",
+  "stream": "orbit-rerun-genesis",
+  "v": 1
+}

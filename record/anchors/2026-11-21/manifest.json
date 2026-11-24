@@ -1,0 +1,130 @@
+{
+  "anchors": {
+    "blockchain": "OP_RETURN payload in blockchain_payload.txt",
+    "crossposts": [
+      "crosspost_1.txt",
+      "crosspost_2.txt"
+    ],
+    "git": "commit anchors/<day>/ contents to the public anchor repository (see ANCHOR_RUNBOOK.md)"
+  },
+  "batches": [
+    {
+      "count": 1,
+      "hour": "2026-11-21T00",
+      "root": "14bd316f445bf9ebaeb8befe3f0355702686f543039bd57746ab1407e73f2c69",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 7,
+      "hour": "2026-11-21T01",
+      "root": "9651d1610a6c91cbcc1c6d6b63ff31df6236b4bd5750313347d02d0f02e22891",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-21T02",
+      "root": "74486d8fa69d8bad5baecc0e34ba33fc49e45d0c92c83cb23756cc64281d86e0",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-21T04",
+      "root": "49c768b2222f50668ac85c3323900f5cb1ea4f03e24a2c1419e58606ad47ff9d",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-21T05",
+      "root": "2f935160844d6644704ae9705f280511a86d07516675ac1b8145477825d0502c",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 7,
+      "hour": "2026-11-21T06",
+      "root": "7b800c9161d1be130fd950e91cf7b91a4f010b4a362086e833261bf6d9e548d9",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 5,
+      "hour": "2026-11-21T07",
+      "root": "7d9959d6e91939339baf2681a90ba0f65491fa3ee3787296d6934cff08459a50",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-21T10",
+      "root": "8309d6314fe05bf5c9fca5c941740c39c28cdd8f5d0823f41db661a29cbc21e7",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 1,
+      "hour": "2026-11-21T11",
+      "root": "82781a1d923d3a9d2a09a788343232ba0d099790c3fd90947c7de94165f57685",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 7,
+      "hour": "2026-11-21T12",
+      "root": "448460141492d4405d85fbd44d9fb0a210bdd19ef7c2c2bbef2d5640dce177ba",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-21T13",
+      "root": "6a20b5a76caf42c6d9546d11fee721e62b78bb7d3afa84c2ce6affa3a59eaf22",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 3,
+      "hour": "2026-11-21T15",
+      "root": "515ee9bf061f689cbb6e338274a7541b3b4ed7ac530cb57f550685b31c4a9ab6",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 1,
+      "hour": "2026-11-21T16",
+      "root": "b6cb73f7c1d206f55794f104d1538d94897486e0248ac1660fadd04699996755",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-21T17",
+      "root": "49ee4dbaf3a7a7a0f82b065e93c8b5d32e20c6a030583b108a1223eb3313c09d",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 2,
+      "hour": "2026-11-21T18",
+      "root": "8ae6e9211c53a6d25c90a56a402e6afe34fc5894ccc80730e7bc6b08424883d5",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 17,
+      "hour": "2026-11-21T20",
+      "root": "624b7b87d2dc318132ecab3ced6fa900d10280d830019383a191e2040402fa46",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 1,
+      "hour": "2026-11-21T21",
+      "root": "688029b0c36bc8886e94ba209110eceb965adab6d7109cdbbaee716e57c010c3",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 4,
+      "hour": "2026-11-21T22",
+      "root": "19e76e39e058954768afa6b0c7b0fa9076968158b7dab4978dab8ee6f3d67138",
+      "stream": "orbit-rerun-genesis"
+    },
+    {
+      "count": 1,
+      "hour": "2026-11-21T23",
+      "root": "38c79d33e76fde0a82f26acdcfa0084f5f6503f996bc7dfb156be88da4f9ddfb",
+      "stream": "orbit-rerun-genesis"
+    }
+  ],
+  "daily_root": "cf0a98620fc167830fab3722507814a2e993fe04276cc5d51c3c8dba6b18392b",
+  "day": "2026-11-21",
+  "prev_daily_root": "1306cd78ee4a444d51670ce24241ac86f2e9154de17c48530a2fd6fbd729b073",
+  "project": "Orbit Rerun"
+}

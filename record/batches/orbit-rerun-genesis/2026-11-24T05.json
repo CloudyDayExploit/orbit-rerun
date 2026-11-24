@@ -1,0 +1,16 @@
+{
+  "count": 5,
+  "first_seq": 418,
+  "hour": "2026-11-24T05",
+  "last_seq": 422,
+  "leaves": [
+    "0b21b76bccfe4fb566e596167881b69d315f05b5df6f337c8d9d8aa7c677eab7",
+    "c42b42caed23805ba542163bf8d6a8f1fe89adc452f96e601abc0edc8b075956",
+    "b5e6072b92389eca50daf681ed41b63d9781619e1b5c1f794a6d50fac954d438",
+    "34218bd48eb718db14ed3c431142c43889ca82f830c420a90bf1d5d4116457cc",
+    "dff4110168ec7d1964a57352a2941a46bcd8f36d8802804a2dc5b2ac94e163a7"
+  ],
+  "root": "4ab04d951f553b57a64195749a81383584a8b50d0ac6ea2e76f615e651876e86",
+  "stream": "orbit-rerun-genesis",
+  "v": 1
+}

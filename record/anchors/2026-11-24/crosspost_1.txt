@@ -1,0 +1,4 @@
+Orbit Rerun daily root — 2026-11-24
+root: 5f30399dfa09c2f4300a66bee50200661b47b57951c3e644834a26e6be5227d8
+prev: 690bd0ef3133ccb74fa6cf2cc266a3b71e48b5f8431ae05fc1e120458adbf2ec
+Verify: recompute the day's Merkle root from the public batch set and compare; see the anchor manifest.
