@@ -5,33 +5,16 @@
     "git": "this commit (hourly witness)"
   },
   "daily_roots_closed_this_cycle": [],
-  "generated_at": "2026-11-25T09:17:58Z",
+  "generated_at": "2026-11-25T09:21:23Z",
   "hour": "2026-11-25T09",
   "hourly_batches_closed_this_cycle": [],
-  "micro_batches_closed_this_cycle": [
-    {
-      "count": 51,
-      "first_seq": 0,
-      "interval": "2026-11-25T0915",
-      "last_seq": 50,
-      "root": "f68e1cc90424fb0cc3aef08ddd37e2fd85414d456ed9ebc4fb03cf83b90bc467",
-      "stream": "claims-revisions"
-    },
-    {
-      "count": 1,
-      "first_seq": 0,
-      "interval": "2026-11-25T0915",
-      "last_seq": 0,
-      "root": "201b96a22041675e9014e1a0902d44efd83ce564fe68fa6dbe7365f4680dafdc",
-      "stream": "live-wire"
-    }
-  ],
+  "micro_batches_closed_this_cycle": [],
   "mode": "shadow",
   "project": "Orbit Rerun \u2014 Live Wire witness",
   "shadow_counts": {
     "by_class": {},
     "candidates": 0,
-    "entries_processed": 51,
+    "entries_processed": 87,
     "overflow": 0,
     "would_cards": 0
   },
@@ -39,19 +22,19 @@
   "store": "live-store",
   "streams": {
     "claims-revisions": {
-      "head_hash": "2443237fe46704d53a033d0ea03ee3440b7d3f3fe2fd949799b08eb8328af41f",
-      "head_seq": 50
+      "head_hash": "655e8184c87f80e18acf01bb337164de9e05cf82524a94224d3d92772cf0ea0e",
+      "head_seq": 86
     },
     "live-wire": {
-      "head_hash": "201b96a22041675e9014e1a0902d44efd83ce564fe68fa6dbe7365f4680dafdc",
-      "head_seq": 0
+      "head_hash": "a7a823252308e7ec2cc5e73b9d6eecfa1dba85fd49729bbb7d835f0fb0e3394a",
+      "head_seq": 1
     }
   },
   "watcher_totals": {
     "changes": 50,
     "claims_sealed": 50,
     "errors": 0,
-    "heartbeats": 0,
-    "polls": 50
+    "heartbeats": 36,
+    "polls": 86
   }
 }
