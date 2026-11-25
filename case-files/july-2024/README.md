@@ -58,6 +58,22 @@ Inside, in brief:
 - **Annex E** — the load-bearing excerpts from each primary source, with
   verification pointers to the publishers' originals.
 
+## The Proof — the visual guide
+
+**[The-Proof-Jul19-vs-Jul30-Visual-Guide.pdf](The-Proof-Jul19-vs-Jul30-Visual-Guide.pdf)**
+— 21 pages, A4, 1,734,330 bytes.
+SHA-256: `c1d623a7f50e50becb3ce77477d131b23069045be1d01187a29bafe0df6033fc`
+
+The dossier's companion, built for reading rather than reference: the
+fortnight timeline, the seven similarity rows (S1–S7) with their grades
+printed at full size, the vendors' key passages as pull-quotes, and the
+verdict in three panels — proven, supported, not established. What the
+dossier grades, the guide shows; nothing in it is graded higher than
+the dossier grades it.
+
+Release: [The Proof — Two July Incidents. One Failure Pattern (Visual
+Guide)](https://github.com/CloudyDayExploit/orbit-rerun/releases/tag/the-proof)
+
 ## Evidence basis
 
 Every mechanism claim rests on the vendors' own publications, cited in the

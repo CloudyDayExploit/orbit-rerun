@@ -170,6 +170,10 @@ license, is the moat. Full reasoning, including the ODbL alternative, in
   — CrowdStrike (19 July 2024) and Azure Front Door (30 July 2024) read side
   by side from the vendors' own postmortems: one failure-amplification
   pattern, graded claim by claim, sitting on this record's founding exhibit.
+- **[The Proof — visual guide](case-files/july-2024/The-Proof-Jul19-vs-Jul30-Visual-Guide.pdf)**
+  — Case File 001's companion: the same graded comparison as a 21-page
+  visual brief — the pattern proven in the vendors' own words, and the
+  rows that did not survive grading printed at the same size.
 - **[Case File 002 — One Outage. Four Accounts.](case-files/nov-2026/)**
   — The Microsoft 365 / Exchange Online outage of 12–13 November 2026 read
   against Microsoft's own successive accounts of it: four documented claim
