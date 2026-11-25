@@ -1,0 +1,82 @@
+{
+  "anchors": {
+    "blockchain": "OTS stamp attempted at day close; proof under live-wire/anchors/<day>/",
+    "crossposts": "pending-manual (runbook step 5)",
+    "git": "this commit (hourly witness)"
+  },
+  "daily_roots_closed_this_cycle": [],
+  "generated_at": "2026-11-25T12:07:00Z",
+  "hour": "2026-11-25T12",
+  "hourly_batches_closed_this_cycle": [
+    {
+      "count": 108,
+      "hour": "2026-11-25T11",
+      "root": "517200be90c9ad3e0fc742f198ead01a387fcafa1784c2cbdfe4a16877955e42",
+      "stream": "claims-revisions"
+    }
+  ],
+  "micro_batches_closed_this_cycle": [
+    {
+      "count": 29,
+      "first_seq": 640,
+      "interval": "2026-11-25T1115",
+      "last_seq": 668,
+      "root": "2964aaa0085edee57eda7d1e26ad97ca7523556360761f0e46eacc33a127f059",
+      "stream": "claims-revisions"
+    },
+    {
+      "count": 30,
+      "first_seq": 669,
+      "interval": "2026-11-25T1130",
+      "last_seq": 698,
+      "root": "69e92f9df5f71bee0fa6895abc1c697e2a875dbd6076757533925f2b83acf007",
+      "stream": "claims-revisions"
+    },
+    {
+      "count": 19,
+      "first_seq": 699,
+      "interval": "2026-11-25T1145",
+      "last_seq": 717,
+      "root": "5658cfc410009e8a39a2ede9366600f3d3260cdbe463575b801a9d5e3703cf1b",
+      "stream": "claims-revisions"
+    },
+    {
+      "count": 4,
+      "first_seq": 718,
+      "interval": "2026-11-25T1200",
+      "last_seq": 721,
+      "root": "5e5781fdc9b5cabebbd48f9621390df8cf81e949700b079b69a952cb9952d46a",
+      "stream": "claims-revisions"
+    }
+  ],
+  "mode": "shadow",
+  "project": "Orbit Rerun \u2014 Live Wire witness",
+  "shadow_counts": {
+    "by_class": {
+      "open-incident-green": 6
+    },
+    "candidates": 6,
+    "entries_processed": 721,
+    "overflow": 0,
+    "would_cards": 0
+  },
+  "shadow_start": "2026-11-25T09:16:22Z",
+  "store": "live-store",
+  "streams": {
+    "claims-revisions": {
+      "head_hash": "2e3afac7b20e2afb12c163869c6c07b618f3c4448fecc9d69a5326cb50a3421d",
+      "head_seq": 720
+    },
+    "live-wire": {
+      "head_hash": "d1f016d6cdc595e9fe1c6a16b615124c59ba757b8002b44d01f9ff9ae6d44ce2",
+      "head_seq": 7
+    }
+  },
+  "watcher_totals": {
+    "changes": 58,
+    "claims_sealed": 58,
+    "errors": 254,
+    "heartbeats": 409,
+    "polls": 721
+  }
+}
