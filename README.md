@@ -164,6 +164,13 @@ license, is the moat. Full reasoning, including the ODbL alternative, in
   never trust commanded state) applied to a single machine: demo and manual
   via chyp.ai
 
+## Case files
+
+- **[Case File 001 — Two July Incidents. One Failure Pattern.](case-files/july-2024/)**
+  — CrowdStrike (19 July 2024) and Azure Front Door (30 July 2024) read side
+  by side from the vendors' own postmortems: one failure-amplification
+  pattern, graded claim by claim, sitting on this record's founding exhibit.
+
 ---
 
 *Orbit Rerun is operated by Cloudy_Day Cybersecurity (chyp.ai). The founding
