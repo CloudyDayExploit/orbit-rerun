@@ -68,3 +68,25 @@ each day's root gets a line here: day, root, git commit, blockchain
 tx/proof, both cross-post URLs, verifier PASS. Missed days are logged
 as missed, with the reason — never silently skipped (Runbook, failure
 handling).*
+
+## Publications
+
+*Repository releases that carry documents beyond the sealed record
+itself — publication anchors, logged when they happen. Cross-post 2
+above remains pending; no entry here fills it.*
+
+- **2026-11-25 — The Proof (visual guide; Case File 001 companion).**
+  Release: https://github.com/CloudyDayExploit/orbit-rerun/releases/tag/the-proof
+  Document: `case-files/july-2024/The-Proof-Jul19-vs-Jul30-Visual-Guide.pdf`
+  — 21 pages, 1,734,330 bytes, SHA-256
+  `c1d623a7f50e50becb3ce77477d131b23069045be1d01187a29bafe0df6033fc`.
+  Publication commit: `78fa0faf895528a65260a806dd02bff881e085d3`.
+- **2026-11-25 — Doors 2026 GUI Edition User Guide (Beta 2).**
+  Release: https://github.com/CloudyDayExploit/orbit-rerun/releases/tag/doors-2026-beta2-guide
+  Document: `doors-2026/Doors-2026-GUI-Edition-User-Guide-Beta2.pdf`
+  — 28 pages, 1,611,391 bytes, SHA-256
+  `713f402ffbcd8977c1fd2a8907a9d304b5d16a0f050ebb931101d89a1176b250`.
+  Publication commit: `f232ef6bee4f8768a1548d8dd75cbce04ce58d78`.
+  Interim-home decision (2026-11-25): the guide publishes here now;
+  the Beta 2 ISO is not released — it launches on Internet Archive
+  with this guide after the real-hardware verification pass.
