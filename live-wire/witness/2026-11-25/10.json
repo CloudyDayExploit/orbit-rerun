@@ -1,0 +1,88 @@
+{
+  "anchors": {
+    "blockchain": "OTS stamp attempted at day close; proof under live-wire/anchors/<day>/",
+    "crossposts": "pending-manual (runbook step 5)",
+    "git": "this commit (hourly witness)"
+  },
+  "daily_roots_closed_this_cycle": [],
+  "generated_at": "2026-11-25T10:07:00Z",
+  "hour": "2026-11-25T10",
+  "hourly_batches_closed_this_cycle": [
+    {
+      "count": 494,
+      "hour": "2026-11-25T09",
+      "root": "692151e6ec1155ebc099d4444155b122cd70752e0c8b006b612bb8125d64b7e1",
+      "stream": "claims-revisions"
+    },
+    {
+      "count": 8,
+      "hour": "2026-11-25T09",
+      "root": "ee8153a891d215765f4ec39f9c06cf443d66d79379b5f5e46bc96c19cbf04a5a",
+      "stream": "live-wire"
+    }
+  ],
+  "micro_batches_closed_this_cycle": [
+    {
+      "count": 224,
+      "first_seq": 225,
+      "interval": "2026-11-25T0930",
+      "last_seq": 448,
+      "root": "3d9e3f35f3d54510af710562384b9d4e69f22d49f9bdb5f4cd66e90e0a2e69e4",
+      "stream": "claims-revisions"
+    },
+    {
+      "count": 45,
+      "first_seq": 449,
+      "interval": "2026-11-25T0945",
+      "last_seq": 493,
+      "root": "c188098a06edcf95239cb58c47ead3ced8694402f41a3ad9fe609a58801d6a7a",
+      "stream": "claims-revisions"
+    },
+    {
+      "count": 14,
+      "first_seq": 494,
+      "interval": "2026-11-25T1000",
+      "last_seq": 507,
+      "root": "4c3f167ed79bda582514e0026d948593dbf60f7af39b4807b9ee80e1ed7612f9",
+      "stream": "claims-revisions"
+    },
+    {
+      "count": 6,
+      "first_seq": 2,
+      "interval": "2026-11-25T0930",
+      "last_seq": 7,
+      "root": "45d1378751384dfaeb8f3fbe3239eee4f7388f567949a8a8e5549bae9525d167",
+      "stream": "live-wire"
+    }
+  ],
+  "mode": "shadow",
+  "project": "Orbit Rerun \u2014 Live Wire witness",
+  "shadow_counts": {
+    "by_class": {
+      "open-incident-green": 6
+    },
+    "candidates": 6,
+    "entries_processed": 508,
+    "overflow": 0,
+    "would_cards": 0
+  },
+  "shadow_start": "2026-11-25T09:16:22Z",
+  "store": "live-store",
+  "streams": {
+    "claims-revisions": {
+      "head_hash": "ea7f88514df72a8aa4d931c255feb06ca9c8ded2cfcbb6a4216ff72ac8561a71",
+      "head_seq": 507
+    },
+    "live-wire": {
+      "head_hash": "d1f016d6cdc595e9fe1c6a16b615124c59ba757b8002b44d01f9ff9ae6d44ce2",
+      "head_seq": 7
+    }
+  },
+  "watcher_totals": {
+    "changes": 58,
+    "claims_sealed": 58,
+    "errors": 40,
+    "heartbeats": 409,
+    "polls": 507
+  }
+}
