@@ -180,6 +180,14 @@ license, is the moat. Full reasoning, including the ODbL alternative, in
   revisions, an observation gap where the independent record should be,
   and the vendor's 13 dated commitments held for grading.
 
+## Doors 2026
+
+- **[Doors 2026 — GUI Edition User Guide (Beta 2)](doors-2026/)**
+  — The flagship's manual, published ahead of its ISO: the journey,
+  the desktop and Doors Control, with the verification status stated
+  as plainly as the guide states it. The ISO follows on Internet
+  Archive after the real-hardware pass.
+
 ---
 
 *Orbit Rerun is operated by Cloudy_Day Cybersecurity (chyp.ai). The founding
